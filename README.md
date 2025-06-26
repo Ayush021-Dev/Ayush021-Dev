@@ -1,8 +1,8 @@
 # Hi, I’m **Ayush Shrivastava** 👋  
 **3rd‑year CSE student @ VIT Chennai • Web & App Dev • ML Enthusiast**  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush021-Dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush021-Dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B)
 ---
 
 ## 🔭 What I’m Building  
