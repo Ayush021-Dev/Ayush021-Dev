@@ -1,6 +1,5 @@
 # Hi, I’m **Ayush Shrivastava** 👋  
 **3rd‑year CSE student @ VIT Chennai • Web & App Dev • ML Enthusiast**  
-*Turning ideas into AI-powered apps.*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayush021-Dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
