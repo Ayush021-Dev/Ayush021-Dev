@@ -1,10 +1,10 @@
 # Hi, I’m **Ayush Shrivastava** 👋  
 **3rd‑year CSE student @ VIT Chennai • Web & App Dev • ML Enthusiast**  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush021-Dev&theme=onedark&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush021-Dev&theme=onedark&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
-## 🔭 What I’m Building  
+## 🔭 What I’ve Built so far
 - 🛡️ **PPE Detection System** – YOLOv8 + Flask app for industrial safety (BPCL Internship)  
 - 🚨 **Intrusion Detection System** – RTSP camera-based logging with zone detection  
 - 🧠 **Face Organizer App** – Desktop app to auto-cluster faces from photos  
