@@ -2,7 +2,7 @@
 
 <img src="header.png" alt="header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final-Year+CSE+%40+VIT+Chennai;Building+real-world+AI+%26+full-stack+solutions;2%C3%97+IEEE+Published+Researcher;BPCL+Intern+%7C+Azure+AI+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd-Year+CSE+%40+VIT+Chennai;Building+real-world+AI+%26+full-stack+solutions;2%C3%97+IEEE+Published+Researcher;BPCL+Intern+%7C+Azure+AI+Certified)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,26 +10,15 @@
 
 ## About Me
 
-- B.Tech CSE @ **Vellore Institute of Technology, Chennai** 
-- Interned at **BPCL**
-- Full-Stack Developer @ **WebForge**
+- B.Tech CSE @ **Vellore Institute of Technology, Chennai**
+- Interned at **BPCL** — built a real-time PPE detection system for 300+ refinery workers using YOLOv8
+- Full-Stack Developer @ **WebForge** — shipping production apps with React, Next.js & cloud backends
 - Published on **IEEE Xplore** — [Real-Time Autonomous Drone Detection Using YOLOv5 and Tracking in Multi-Modal Sensor Fusion Techniques](https://ieeexplore.ieee.org/document/11411200)  
   Fine-tuned YOLOv5s on 3,250 multi-modal images; real-time tracking at ~28 FPS with 88.4% Precision and 95.0% mAP
 - Published on **IEEE Xplore** — [Pixels to Purity: AI-Powered Hyperspectral Analysis for Pesticide-Free Produce](https://ieeexplore.ieee.org/document/11466019)  
   Custom CNN on Hyperspectral Imaging (HSI) to detect pesticide residue thresholds non-invasively; 77% test accuracy
-- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- [**Microsoft Certified: Azure AI Fundamentals (AI-900)**](https://www.credly.com/badges/11a5e3fb-d3b0-4fa2-ae11-e0f2e842f263)
 - Portfolio: [ayushportfolio-henna.vercel.app](https://ayushportfolio-henna.vercel.app)
-
----
-
-## Featured Projects
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| **PPE Detection System** | YOLOv8 · Flask · SQLite · IIS | Real-time safety monitoring for 300+ BPCL workers; 40% faster detection |
-| **KwikPic – AI Face Organizer** | Python · OpenCV · dlib · Scikit-learn | 93%+ accuracy clustering 1000+ faces; packaged as one-click Windows installer |
-| **SymtoMap – Health Risk AI** | XGBoost · Flask · Blender · JS | Multi-condition health predictor with interactive 3D organ visualization |
-| **Smart Grocery App** | Flutter · Dart · Firebase | Cross-platform app with offline-first arch, AI suggestions & GPS; live on Android |
 
 ---
 
@@ -75,15 +64,23 @@
 
 ---
 
+## Featured Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **PPE Detection System** | YOLOv8 · Flask · SQLite · IIS | Real-time safety monitoring for 300+ BPCL workers; 40% faster detection |
+| **KwikPic – AI Face Organizer** | Python · OpenCV · dlib · Scikit-learn | 93%+ accuracy clustering 1000+ faces; packaged as one-click Windows installer |
+| **SymtoMap – Health Risk AI** | XGBoost · Flask · Blender · JS | Multi-condition health predictor with interactive 3D organ visualization |
+| **ARQ+ – AR Flashcard Platform** | Next.js 14 · TypeScript · MongoDB · Cloudinary | AR business cards with anchored media (YouTube, audio, social); live on Vercel |
+| **Smart Grocery App** | Flutter · Dart · Firebase | Cross-platform app with offline-first arch, AI suggestions & GPS; live on Android |
+
+---
+
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush021-Dev&theme=tokyonight&hide_border=true&hide=longest_streak" width="60%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush021-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush021-Dev&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush021-Dev&theme=tokyonight&hide_border=true&hide=longest_streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush021-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 </div>
 
 <div align="center">
