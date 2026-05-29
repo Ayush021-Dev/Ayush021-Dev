@@ -11,9 +11,12 @@
 ## About Me
 
 - B.Tech CSE @ **Vellore Institute of Technology, Chennai** 
-- Interned at **BPCL** — 
-- Full-Stack Developer @ **WebForge** — 
-- Published **2 research papers on IEEE Xplore** (Drone Detection + Hyperspectral AI)
+- Interned at **BPCL**
+- Full-Stack Developer @ **WebForge**
+- Published on **IEEE Xplore** — [Real-Time Autonomous Drone Detection Using YOLOv5 and Tracking in Multi-Modal Sensor Fusion Techniques](https://ieeexplore.ieee.org/document/11411200)  
+  Fine-tuned YOLOv5s on 3,250 multi-modal images; real-time tracking at ~28 FPS with 88.4% Precision and 95.0% mAP
+- Published on **IEEE Xplore** — [Pixels to Purity: AI-Powered Hyperspectral Analysis for Pesticide-Free Produce](https://ieeexplore.ieee.org/document/11466019)  
+  Custom CNN on Hyperspectral Imaging (HSI) to detect pesticide residue thresholds non-invasively; 77% test accuracy
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 - Portfolio: [ayushportfolio-henna.vercel.app](https://ayushportfolio-henna.vercel.app)
 
@@ -26,7 +29,6 @@
 | **PPE Detection System** | YOLOv8 · Flask · SQLite · IIS | Real-time safety monitoring for 300+ BPCL workers; 40% faster detection |
 | **KwikPic – AI Face Organizer** | Python · OpenCV · dlib · Scikit-learn | 93%+ accuracy clustering 1000+ faces; packaged as one-click Windows installer |
 | **SymtoMap – Health Risk AI** | XGBoost · Flask · Blender · JS | Multi-condition health predictor with interactive 3D organ visualization |
-| **ARQ+ – AR Flashcard Platform** | Next.js 14 · TypeScript · MongoDB · Cloudinary | AR business cards with anchored media (YouTube, audio, social); live on Vercel |
 | **Smart Grocery App** | Flutter · Dart · Firebase | Cross-platform app with offline-first arch, AI suggestions & GPS; live on Android |
 
 ---
@@ -76,7 +78,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush021-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush021-Dev&theme=tokyonight&hide_border=true&hide=longest_streak" width="60%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush021-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
 
