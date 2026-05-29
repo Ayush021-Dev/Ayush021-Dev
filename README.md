@@ -11,8 +11,8 @@
 ## About Me
 
 - B.Tech CSE @ **Vellore Institute of Technology, Chennai**
-- Interned at **BPCL** — built a real-time PPE detection system for 300+ refinery workers using YOLOv8
-- Full-Stack Developer @ **WebForge** — shipping production apps with React, Next.js & cloud backends
+- Interned at **BPCL**
+- Full-Stack Developer @ **WebForge**
 - Published on **IEEE Xplore** — [Real-Time Autonomous Drone Detection Using YOLOv5 and Tracking in Multi-Modal Sensor Fusion Techniques](https://ieeexplore.ieee.org/document/11411200).
 - Published on **IEEE Xplore** — [Pixels to Purity: AI-Powered Hyperspectral Analysis for Pesticide-Free Produce](https://ieeexplore.ieee.org/document/11466019). 
 - [**Microsoft Certified: Azure AI Fundamentals (AI-900)**](https://www.credly.com/badges/11a5e3fb-d3b0-4fa2-ae11-e0f2e842f263)
