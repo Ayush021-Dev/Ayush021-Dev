@@ -2,7 +2,7 @@
 
 <img src="header.png" alt="header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd-year+CSE+%40+VIT+Chennai;Building+real-world+AI+%26+full-stack+solutions;2%C3%97+IEEE+Published+Researcher;BPCL+Intern+%7C+Azure+AI+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=final-year+CSE+%40+VIT+Chennai;Building+real-world+AI+%26+full-stack+solutions;2%C3%97+IEEE+Published+Researcher;BPCL+Intern+%7C+Azure+AI+Certified)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## About Me
 
-- B.Tech CSE @ **Vellore Institute of Technology, Chennai** (CGPA: 8.63)
-- Interned at **BPCL** — built a real-time PPE detection system for 300+ refinery workers using YOLOv8
-- Full-Stack Developer @ **WebForge** — shipping production apps with React, Next.js & cloud backends
+- B.Tech CSE @ **Vellore Institute of Technology, Chennai** 
+- Interned at **BPCL** — 
+- Full-Stack Developer @ **WebForge** — 
 - Published **2 research papers on IEEE Xplore** (Drone Detection + Hyperspectral AI)
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 - Portfolio: [ayushportfolio-henna.vercel.app](https://ayushportfolio-henna.vercel.app)
