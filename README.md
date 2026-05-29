@@ -13,9 +13,8 @@
 - B.Tech CSE @ **Vellore Institute of Technology, Chennai**
 - Interned at **BPCL** — built a real-time PPE detection system for 300+ refinery workers using YOLOv8
 - Full-Stack Developer @ **WebForge** — shipping production apps with React, Next.js & cloud backends
-- Published on **IEEE Xplore** — [Real-Time Autonomous Drone Detection Using YOLOv5 and Tracking in Multi-Modal Sensor Fusion Techniques](https://ieeexplore.ieee.org/document/11411200) Fine-tuned YOLOv5s on 3,250 multi-modal images; real-time tracking at ~28 FPS with 88.4% Precision and 95.0% mAP
-- Published on **IEEE Xplore** — [Pixels to Purity: AI-Powered Hyperspectral Analysis for Pesticide-Free Produce](https://ieeexplore.ieee.org/document/11466019)  
-  Custom CNN on Hyperspectral Imaging (HSI) to detect pesticide residue thresholds non-invasively; 77% test accuracy
+- Published on **IEEE Xplore** — [Real-Time Autonomous Drone Detection Using YOLOv5 and Tracking in Multi-Modal Sensor Fusion Techniques](https://ieeexplore.ieee.org/document/11411200). Fine-tuned YOLOv5s on 3,250 multi-modal images; real-time tracking at ~28 FPS with 88.4% Precision and 95.0% mAP
+- Published on **IEEE Xplore** — [Pixels to Purity: AI-Powered Hyperspectral Analysis for Pesticide-Free Produce](https://ieeexplore.ieee.org/document/11466019). Custom CNN on Hyperspectral Imaging (HSI) to detect pesticide residue thresholds non-invasively; 77% test accuracy
 - [**Microsoft Certified: Azure AI Fundamentals (AI-900)**](https://www.credly.com/badges/11a5e3fb-d3b0-4fa2-ae11-e0f2e842f263)
 - Portfolio: [ayushportfolio-henna.vercel.app](https://ayushportfolio-henna.vercel.app)
 
